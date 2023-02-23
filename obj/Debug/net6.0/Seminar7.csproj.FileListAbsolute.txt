@@ -1,0 +1,15 @@
+F:\Git_gb\Lesson3.1\Seminar7\bin\Debug\net6.0\Seminar7.exe
+F:\Git_gb\Lesson3.1\Seminar7\bin\Debug\net6.0\Seminar7.deps.json
+F:\Git_gb\Lesson3.1\Seminar7\bin\Debug\net6.0\Seminar7.runtimeconfig.json
+F:\Git_gb\Lesson3.1\Seminar7\bin\Debug\net6.0\Seminar7.dll
+F:\Git_gb\Lesson3.1\Seminar7\bin\Debug\net6.0\Seminar7.pdb
+F:\Git_gb\Lesson3.1\Seminar7\obj\Debug\net6.0\Seminar7.csproj.AssemblyReference.cache
+F:\Git_gb\Lesson3.1\Seminar7\obj\Debug\net6.0\Seminar7.GeneratedMSBuildEditorConfig.editorconfig
+F:\Git_gb\Lesson3.1\Seminar7\obj\Debug\net6.0\Seminar7.AssemblyInfoInputs.cache
+F:\Git_gb\Lesson3.1\Seminar7\obj\Debug\net6.0\Seminar7.AssemblyInfo.cs
+F:\Git_gb\Lesson3.1\Seminar7\obj\Debug\net6.0\Seminar7.csproj.CoreCompileInputs.cache
+F:\Git_gb\Lesson3.1\Seminar7\obj\Debug\net6.0\Seminar7.dll
+F:\Git_gb\Lesson3.1\Seminar7\obj\Debug\net6.0\refint\Seminar7.dll
+F:\Git_gb\Lesson3.1\Seminar7\obj\Debug\net6.0\Seminar7.pdb
+F:\Git_gb\Lesson3.1\Seminar7\obj\Debug\net6.0\Seminar7.genruntimeconfig.cache
+F:\Git_gb\Lesson3.1\Seminar7\obj\Debug\net6.0\ref\Seminar7.dll
